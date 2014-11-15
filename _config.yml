@@ -1,0 +1,10 @@
+# Site settings
+title: JCatalog
+# email: your-email@domain.com
+description: J Hosteler's Catalog
+baseurl: "/jcat/" # the subpath of your site, e.g. /blog/
+url: "http://jmilug.github.io" # the base hostname & protocol for your site
+github_username:  jmilug
+
+# Build settings
+markdown: kramdown
