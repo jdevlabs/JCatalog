@@ -2,7 +2,7 @@
 title: JCatalog
 description: J Hosteler's Catalog
 email: jmilug@gmail.com
-baseurl: "/jcatalog" # the subpath of your site, e.g. /blog/
+baseurl: "/jCatalog" # the subpath of your site, e.g. /blog/
 url: "http://jdevlabs.github.io" # the base hostname & protocol for your site
 github_username:  jdevlabs
 
