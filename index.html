@@ -4,27 +4,31 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">What's this?</h1>
+  <!-- <h1 class="page-heading">What's this?</h1> -->
 
 <p>
-
-You can edit the data here (in html).
 
  </p>
 
 
-<!--   <ul class="post-list">
+  <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <!-- Short intro of the PG -->
         </h2>
+
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+        <span class="post-meta">{{ post.address }}</span>
+
+        <!-- Star rating images -->
+        <span class="post-meta"> {{ post.ratings }}</span>
+        <!-- GMaps image which will open the google maps in another tab with the address of PG marked on it. -->
       </li>
     {% endfor %}
-  </ul> -->
+  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
