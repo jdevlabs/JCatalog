@@ -4,6 +4,7 @@ title:  "Hersh Vatika"
 date:   2015-01-12 22:02:45
 categories: pg
 address: 87, Sarai Jullena, Okhla, New Delhi, Delhi 110025
+dist: 1.0
 ratings:
 ---
 

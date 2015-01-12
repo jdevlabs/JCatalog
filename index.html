@@ -14,11 +14,11 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+        <h1 style="float: right; color: #BAB6B6">{{ post.dist }} Km</h1>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <!-- Short intro of the PG -->
         </h2>
-
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
         <span class="post-meta">{{ post.address }}</span>
 
