@@ -3,7 +3,7 @@ layout: post
 title:  "Waseela Girls PG"
 date:   2015-01-12 22:02:45
 categories: pg
-address: Filler text for now. Filler text for now. Filler text for now. Filler text for now. Filler text for now.
+address: Near Fruit corner,  Jamia Thana, Okhla Head, Jamia Nagar, Okhla, New Delhi-110025.
 dist: 0
 ratings: 35
 ---

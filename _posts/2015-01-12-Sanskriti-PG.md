@@ -3,8 +3,8 @@ layout: post
 title:  "Sanskriti PG"
 date:   2015-01-12 22:02:45
 categories: pg
-address: Filler text for now. Filler text for now. Filler text for now. Filler text for now. Filler text for now. 
-dist: 2.0 
+address: B-5/B, Block B, Johri Farm, Noor Nagar, Jamia Nagar, New Delhi-110025.
+dist: 2.0
 ratings:
 ---
 <a href="https://www.google.com/maps/dir/Jamia+Millia+Islamia+Cricket+Ground,+Maulana+Mohammad+Ali+Jauhar+Marg,+Jamia+Nagar,+Friends+Colony,+New+Delhi,+Delhi,+India/28.554698,77.287392/@28.5590709,77.2822655,17z/data=!4m9!4m8!1m5!1m1!1s0x390ce38cedb6d21f:0xc2dcb1b232f79225!2m2!1d77.279107!2d28.562508!1m0!3e2?hl=en">
