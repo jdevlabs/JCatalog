@@ -1,13 +1,10 @@
-
 ---
 layout: post
 title:  "Ashiyana PG"
 date:   2015-01-12 22:02:45
 categories: pg
-<<<<<<< HEAD
 address: J2/A, opp. Khalilullah Masjid, Batla House, Jamia Nagar, New Delhi-110025.
 dist: 1.4
->>>>>>> 9d2505c379d08c4793fbb9424a1819af9af7b838
 ratings:
 ---
 
