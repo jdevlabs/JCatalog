@@ -4,7 +4,7 @@ title:  "Kausar Raza PG"
 date:   2015-01-12 22:02:45
 categories: pg
 address: 32-B ,Noor Nagar extension ,New Delhi-110025
-dist: 0
+dist: 2.2
 ratings:
 ---
 <a href="https://www.google.com/maps/search/32-b,+Noor+Nagar+extension,new+delhi+-110025/@28.557948,77.287533,17z/data=!3m1!4b1?hl=en">
