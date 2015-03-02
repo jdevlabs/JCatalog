@@ -5,7 +5,6 @@ date:   2015-01-12 22:02:45
 categories: pg
 address: Near B-104, Btala House, Zakir Nagar, Okhla, New Delhi-110025.
 dist: 1.4
-
 ratings:
 ---
 
