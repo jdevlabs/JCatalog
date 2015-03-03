@@ -15,8 +15,8 @@ ratings:
 **Contact:** 9350837213; Khuidara mam
 
 
-**Rent:**  3500/- with lobby
-	    3000/- without lobby.
+**Rent:**  Rs 3500/- with lobby  
+	   Rs 3000/- without lobby.
 
 <hr><br>
 
