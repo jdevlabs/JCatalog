@@ -16,6 +16,7 @@ ratings:
 
 
 **Rent:**  Rs 3500/- with lobby  
+
 	   Rs 3000/- without lobby.
 
 <hr><br>
