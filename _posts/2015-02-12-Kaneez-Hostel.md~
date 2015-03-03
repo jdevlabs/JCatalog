@@ -16,7 +16,9 @@ ratings:
 
 
 **Rent:**  
+
 * 2 Seater- Rs. 3000/- per month
+
 * 3 Seater - Rs. 2500/- per month
 
 
