@@ -16,7 +16,8 @@ ratings:
 
 
 **Rent:**  3500/- with lobby
-	    3000/- without lobby.
+
+3000/- without lobby.
 
 <hr><br>
 
