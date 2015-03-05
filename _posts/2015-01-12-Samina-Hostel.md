@@ -16,15 +16,20 @@ ratings:
 
 
 
-**Rent:**  2500/- 
+**Rent:**  2500/- (3 seater)
+           3000/- (2 seater)       
 
 
 <hr><br>
 
-*  **Meal** - Tiffin system ,charges vary.
+*  **Meal** - Tiffin system.
 
-* 2 or 3 girls per room.
+*  **No** extra charges on cooler/AC.
 
-* Deadline to enter in PG- 9:30 pm.
+*    Deadline to enter in PG- 9:30 pm.
+
+*    Visitors not allowed.
+
+
 
 
