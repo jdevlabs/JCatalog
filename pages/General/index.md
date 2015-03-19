@@ -5,17 +5,17 @@ permalink: /general/
 ---
 ##General Details of Jamia Girls hostel
 
-1. <p style="color:blue">Forms available</p>
+1. <p style="color:green">Forms available</p>
 
      * From - End of July
 
     * Until- Mid August
 
 
-2. <p style="color:blue">NCR people are not eligible for hostel accommodation.</p>
+2. <p style="color:green">NCR people are not eligible for hostel accommodation.</p>
 
 
-3. <p style="color:blue">Documents required</p>
+3. <p style="color:green">Documents required</p>
 
 	* 2 affidavits from Local Guardians.
 
@@ -30,7 +30,7 @@ permalink: /general/
 	* Marksheet of your qualifying exam.
 
 
-4. <p style="color:blue">Regarding Interview</p>
+4. <p style="color:green">Regarding Interview</p>
 
 	* Presence of both the LGs is mandatory.
 
@@ -48,9 +48,9 @@ permalink: /general/
 
        6. General Discussion in context of your pursuing field.
 
-5. <p style="color:blue">Visitors are allowed entry in the hostel premises on Sundays and Gazetted holidays between</p>
+5. <p style="color:green">Visitors are allowed entry in the hostel premises on Sundays and Gazetted holidays between</p>
 
-<p style="color:blue">9:30 to 5:30 pm.</p>
+<p style="color:green">9:30 to 5:30 pm.</p>
 
 ##Life around Girls hostel
 
@@ -76,11 +76,16 @@ permalink: /general/
 
 11. **Stationery** - Maktaba Jamia, Okhla Head, Batla house, Tikona Park.
 
-12. **Banks** -  At Jamia-Indian Bank , At Batla House-Jamia Cooperative Bank, At Zakir Nagar- SBI, At Tahmoor Nagar- HDFC, At Community Center/ New Friends Colony- All major banks.
+12. **Banks** -  At Jamia-Indian Bank , At Batla House-Jamia Cooperative Bank, At Zakir Nagar- SBI, At Tahmoor Nagar- HDFC, At Community Center/ New Friends Colony- All
+
+ major banks.
 
 13. **Nearest ATMs** - At Tikona Park-Union Bank; At JMI- Indian Bank, Community Center- All major banks.
 
+
+
 14. **Post office** - Near the Sports complex, JMI.
+
 
 15. **Mobile recharge and accessories points**- Tikona Park , Community Center, Okhla Head.
 
