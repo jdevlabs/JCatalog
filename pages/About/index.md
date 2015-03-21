@@ -8,11 +8,12 @@ permalink: /contact/
 Hostelers
 
 
-1. Farheen Nilofer, B.Tech 4th yr, **+91 8826345209** ,
-:phone:
+1. Farheen Nilofer, B.Tech 4th yr,  :phone: **+91 8826345209** ,
 
 
-2. Maseela Ali, B.Tech 3rd yr, **+91 8527507620** , **+919716312936**
+
+
+2. Maseela Ali, B.Tech 3rd yr, :iphone: **+91 8527507620** , **+919716312936**
 
 
 3. Adeela Izhar, B. Tecg 3rd yr, **9891859559**

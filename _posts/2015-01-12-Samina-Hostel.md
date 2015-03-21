@@ -3,8 +3,8 @@ layout: post
 title:  "Samina Hostel"
 date:   2015-01-12 22:02:45
 categories: pg
-address: Near Jaswant Appartments, Tikona Park, Jamia Nagar, ND-25 
-dist: 1.3 
+address: Near Jaswant Appartments, Tikona Park, Jamia Nagar, ND-25
+dist: 1.3
 ratings:
 ---
 
@@ -16,8 +16,11 @@ ratings:
 
 
 
-**Rent:**  2500/- (3 seater)
-           3000/- (2 seater)       
+**Rent:**
+
+* 2500/- (3 seater)
+
+* 3000/- (2 seater)
 
 
 <hr><br>
