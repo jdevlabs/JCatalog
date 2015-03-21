@@ -14,7 +14,7 @@ ratings:
 </a>
 
 <br>
-**Contact:**
+:phone:
 
 **Rent:**
 

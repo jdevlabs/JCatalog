@@ -12,7 +12,7 @@ ratings:
 ">
 </a>
 
-**Contact:** No contacts info
+:phone:
 
 
 **Rent:**

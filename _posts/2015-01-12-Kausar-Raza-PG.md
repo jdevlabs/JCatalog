@@ -17,7 +17,7 @@ ratings:
 </a>
 
 
-**Contact:**   to be filled(pending)
+:phone:
 
 
 
@@ -31,7 +31,7 @@ ratings:
 *  2/3 Girls per room
 
 *  NO Extra charges on cooler/AC
-      
-*  Visitors- Allowed 
- 
+
+*  Visitors- Allowed
+
 images
