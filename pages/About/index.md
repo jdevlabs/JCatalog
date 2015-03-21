@@ -8,25 +8,19 @@ permalink: /contact/
 Hostelers
 
 
-1. Farheen Nilofer, B.Tech 4th yr,  :phone: **+91 8826345209** ,
+1. **Farheen Nilofer**, B.Tech 4th yr,  :e-mail: farheenfnilofer@gmail.com
 
 
+2. **Maseela Ali**, B.Tech 3rd yr, :e-mail: maseeraali28@gmail.com
+
+3. **Adeela Izhar**, B. Tecg 3rd yr, :e-mail: izharadeela@gmail.com
+Locals
 
 
-2. Maseela Ali, B.Tech 3rd yr, :iphone: **+91 8527507620** , **+919716312936**
+1. **Sarah Masud**, B.Tech 4th yr, :e-mail: sarahmasud02@gmail.com
 
 
-3. Adeela Izhar, B. Tecg 3rd yr, **9891859559**
-
-Local
+2. **Shivam Rana**, B.Tech 4th yr, :e-mail: theshivamrana@gmail.com
 
 
-1. Sarah Masud, B.Tech 4th yr, **+91 9871309718**
-
-heading
-
-
-1. Shivam Rana, B.Tech 4th yr, **+91901345129**
-
-
-2. Aakash  Agrrawal , B. Tech 3rd yr, **+918860155393**
+3. **Aakash  Agrrawal** , B. Tech 3rd yr, :e-mail: aakash.srt@gmail.com
