@@ -20,6 +20,7 @@ permalink: /guesthouses/
 		<p style="color:red">(10% Service charge & 12.5% Luxury Tax Extra.)</p>
 
 	* **website:** [www.hotelrajdeeppalace.com/](http://www.hotelrajdeeppalace.com/)
+
 2. **IKON RESIDENCY**
 
 	* **Address:** D-823, New Friends Colony, New Delhi-65.
@@ -81,6 +82,7 @@ permalink: /guesthouses/
 	* **website:** [www.theroyalresidencyhotel.com](http://www.theroyalresidencyhotel.com/)
 
 6. **DIVINE INN**
+
 	* **Address:** 7 B, Dr. C.V. Raman Road, Near Gurudwara, New Friends Colony, New Delhi -65
 
 	* :phone:  +91-11-45787878
@@ -93,6 +95,7 @@ permalink: /guesthouses/
 
 
 	* **website:** [www.divineinn.com/](http://www.divineinn.com/index.html)
+
 7. **R. S SHARMA GUEST HOUSE**
 
 	* **Address:** 98/ Sarai Jullena, Near Escorts Heart Center, New Delhi-25.
