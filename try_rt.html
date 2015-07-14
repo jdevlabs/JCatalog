@@ -16,47 +16,31 @@
 <h2>Bootstrap Star Rating Examples</h2>
 </div>
 <form>
-    <input id="input-21b" value="2.6" type="number" class="rating" min=0 max=5 step=0.02 data-size="lg">
-    <hr>
+   	 <input id="input-21f" value="2.5" type="number" min=0 max=5 step=0.0001 data-size="md" disabled>
 </form>
 <hr>
 <script>
     jQuery(document).ready(function () {
-        $("#input-21f").rating({
+    	 $("#input-21f").rating({
             starCaptions: function(val) {
-                if (val < 3) {
+                
                     return val;
-                } else {
-                    return 'high';
-                }
+                
             },
             starCaptionClasses: function(val) {
-                if (val < 3) {
-                    return 'label label-danger';
-                } else {
+                
                     return 'label label-success';
-                }
+                
             },
             hoverOnClear: false
         });
-        
         $('#rating-input').rating({
               min: 0,
               max: 5,
-              step: 1,
+              step: 0.0001,
               size: 'lg',
               showClear: false
            });
-           
-        $('#btn-rating-input').on('click', function() {
-            $('#rating-input').rating('refresh', {
-                showClear:false, 
-                disabled:false
-            });
-        });
-        
-        
-        $('.rb-rating').rating({'showCaption':true, 'stars':'3', 'min':'0', 'max':'3', 'step':'1', 'size':'xs', 'starCaptions': {0:'status:nix', 1:'status:wackelt', 2:'status:geht', 3:'status:laeuft'}});
     });
 </script>
 </div>  
