@@ -8,41 +8,13 @@
     <link rel="stylesheet" href="bower_components/bootstrap-star-rating/css/star-rating.css" media="all" rel="stylesheet" type="text/css"/>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="bower_components/bootstrap-star-rating/js/star-rating.js" type="text/javascript"></script>
+
 </head> 
 
 <body>
-<div class="container">
-<div class="page-header">
-<h2>RATING</h2>
-</div>
 <form>
-   	 <input id="input-21f" value="2.5" type="number" min=0 max=5 step=0.0001 data-size="sm" disabled>
+   	 <input id="input-21f" value="2.5565" type="number" min=0 max=5 step=0.0001 data-size="sm" disabled>
 </form>
-<hr>
-<script>
-    jQuery(document).ready(function () {
-    	 $("#input-21f").rating({
-            starCaptions: function(val) {
-                
-                    return val;
-                
-            },
-            starCaptionClasses: function(val) {
-                
-                    return 'label label-success';
-                
-            },
-            hoverOnClear: false
-        });
-        $('#rating-input').rating({
-              min: 0,
-              max: 5,
-              step: 0.0001,
-              size: 'lg',
-              showClear: false
-           });
-    });
-</script>
-</div>  
+ <script src="rating_sep.js" type="text/javascript"></script> 
 </body>
 </html>
