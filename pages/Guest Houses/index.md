@@ -13,9 +13,9 @@ permalink: /guesthouses/
 
 	* **Tarrif:**
 
-		* Single 1500/-(Indian Rs.) + Taxes
+		* Single Rs.1500/- + Taxes
 
-		* Double 1800/-(Indian Rs.) + Taxes
+		* Double Rs.1800/- + Taxes
 
 		<p style="color:red">(10% Service charge & 12.5% Luxury Tax Extra.)</p>
 
@@ -29,9 +29,9 @@ permalink: /guesthouses/
 
 	* **Tarrif:**
 
-		* Single 3000/-(Indian Rs.) + Taxes
+		* Single Rs.3000/- + Taxes
 
-		* Double 4000/-(Indian Rs.) + Taxes
+		* Double Rs.4000/- + Taxes
 
 		<p style="color:red">(7.42% Service charge & 10% Luxury Tax Extra.)</p>
 
@@ -45,9 +45,7 @@ permalink: /guesthouses/
 
 	* :phone:  011-26929315, 011-26929316
 
-	* **Tarrif:**
-
-		* Double Bed Range- 1500,2000,2500 /-
+	* **Tarrif:** Double Bed Range- Rs.1500-2000-2500/-
 
 4. **HOTEL CENTRUM**
 
@@ -59,9 +57,9 @@ permalink: /guesthouses/
 
 	* **Tarrif:**
 
-		* Single 3200/-(Indian Rs.) + Taxes
+		* Single Rs.3200/- + Taxes
 
-		* Double 3700/-(Indian Rs.) + Taxes
+		* Double Rs.3700/- + Taxes
 
 		<p style="color:red">(7.416% Service charge & 10% Luxury Tax Extra.)</p>
 
@@ -75,12 +73,11 @@ permalink: /guesthouses/
 
 	* :phone:  +91-11-4602276, +91-11-4602276, +91-11-26310684
 
-	* **Tarrif:**
-
-		* Double Bed Range- 2500-3000-3500/-(Indian Rs.) + Taxes.
+	* **Tarrif:** Double Bed Range- Rs.2500-3000-3500/- +Taxes
 
 	* **website:** [www.theroyalresidencyhotel.com](http://www.theroyalresidencyhotel.com/)
 
+	
 6. **DIVINE INN**
 
 	* **Address:** 7 B, Dr. C.V. Raman Road, Near Gurudwara, New Friends Colony, New Delhi -65
@@ -89,9 +86,9 @@ permalink: /guesthouses/
 
 	* **Tarrif:**
 
-		* Single 5000/-(Indian Rs.) + Taxes
+		* Single Rs.5000/- + Taxes
 
-		* Double 6000/-(Indian Rs.) + Taxes
+		* Double Rs.6000/- + Taxes
 
 
 	* **website:** [www.divineinn.com/](http://www.divineinn.com/index.html)
@@ -103,6 +100,4 @@ permalink: /guesthouses/
 	* :phone: +91-9599440440
 
 	* **Tarrif:**
-		Single Room: 500-900/- (Indian Rs)
-
-	<p style="color:red">(Breakfast NOT included) </p>
+		Single Room: Rs.500-900/- <font color="red">(Breakfast NOT included) </font>
