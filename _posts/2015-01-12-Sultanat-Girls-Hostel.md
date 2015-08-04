@@ -3,7 +3,7 @@ layout: post
 title:  "Sultanat Girls Hostel"
 date:   2015-01-12 22:02:45
 categories: pg
-address: Jamia Nagar, Abul Fazal Enclave, Okhla, New Delhi, Delhi 110020
+address:Abul Fazal Enclave, Jamia Nagar, Okhla, New Delhi, Delhi 110020
 dist: 1.7
 ratings:
 ---
@@ -28,5 +28,3 @@ ratings:
 *  **Meal** - Tiffin system , cook to be provided soon
 
 *  Visitor room for parents
-
-images
