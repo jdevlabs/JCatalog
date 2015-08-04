@@ -3,7 +3,7 @@ layout: page
 title: Help Us
 permalink: /help_us/
 ---
-### In Keeping this portal updated.
+### In keeping this portal updated.
 
 
 * Want to get a new PG listed?
