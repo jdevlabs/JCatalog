@@ -3,8 +3,14 @@ layout: page
 title: Help Us
 permalink: /help_us/
 ---
-Help us keep our portal updated.
+### In Keeping this portal updated.
 
-If have any information regarding a PG not listed with us or wish to improve the existing information, kindly fill this form.
+
+* Want to get a new PG listed?
+
+
+* Have some updates to share about the listed PGs?
+
+Follow the link below.
 
 [CLIKC HERE](http://tinyurl.com/helpusform)
