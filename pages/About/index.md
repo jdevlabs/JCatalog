@@ -1,30 +1,17 @@
 ---
 layout: page
 title: Contact Us
+title_disp: The Team
 permalink: /contact/
 ---
 Developed and maintained by **B.Tech(Computer Engg.)-JMI**.
 
-**THE TEAM:**
+## Hostelers
+* **Farheen Nilofer**, B.Tech 4th yr [:e-mail:](farheenfnilofer@gmail.com)
+* **Maseela Ali**, B.Tech 3rd yr [:e-mail:](mailto:maseeraali28@gmail.com)
+* **Adeela Izhar**, B. Tech 3rd yr [:e-mail:](mailto:izharadeela@gmail.com)
 
-Hostelers
-
-
-1. **Farheen Nilofer**, B.Tech 4th yr,  :e-mail: <farheenfnilofer@gmail.com>
-
-
-2. **Maseela Ali**, B.Tech 3rd yr, :e-mail: <maseeraali28@gmail.com>
-
-3. **Adeela Izhar**, B. Tech 3rd yr, :e-mail: <izharadeela@gmail.com>
-
-
-Locals
-
-
-1. **Sarah Masud**, B.Tech 4th yr, :e-mail: <sarahmasud02@gmail.com>
-
-
-2. **Shivam Rana**, B.Tech 4th yr, :e-mail: <shivamrana95@yahoo.in>
-
-
-3. **Aakash  Agrrawal** , B. Tech 3rd yr, :e-mail: <aakash.srt@gmail.com>
+## Locals 
+* **Sarah Masud**, B.Tech 4th yr [:e-mail:](sarahmasud02@gmail.com)
+* **Shivam Rana**, B.Tech 4th yr [:e-mail:](shivamrana95@yahoo.in)
+* **Aakash  Agrrawal** , B. Tech 3rd yr [:e-mail:](aakash.srt@gmail.com)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Guest Houses
+title_disp: Guest Houses
 permalink: /guesthouses/
 ---
 1.  **RAJDEEP PALACE**

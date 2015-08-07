@@ -1,119 +1,70 @@
 ---
 layout: page
-title: General
+title: General Details
+title_disp: General Details of Jamia Girls hostel
 permalink: /general/
 ---
-##General Details of Jamia Girls hostel
-
-1. <p style="color:green">Forms available</p>
-
-     * From - End of July
-
-    * Until- Mid August
-
-
-2. <p style="color:green">NCR people are not eligible for the hostel.</p>
-
-
-3. <p style="color:green">Documents required</p>
-
-	* 2 affidavits from Local Guardians.
-
-	* 1 affidavit from parents regarding financial guarantee.
-
-	*  Address proof of Local Guardian.
-
-	* Residential proof.
-
-	*  Income certificate for economically weaker section.
-
-	* Marksheet of your qualifying exam.
-
-
-4. <p style="color:green">Regarding Interview</p>
-
-	* Presence of both the LGs is mandatory.
-
-	* General questions asked -
-
+- Forms available: **July end - Mid August**
+- NCR people are **NOT** eligible for hostel accommodation.
+- Documents required:
+    * 2 affidavits from Local Guardians (LGs).
+    * 1 affidavit from parents regarding financial guarantee.
+    * Address proof of LG.
+    * Residential proof.
+    * Income certificate (if belonging to economically weaker section).
+    * Marksheet of your qualifying exam.
+- Regarding **Interview**
+    * Presence of both the LGs is mandatory.
+    * General questions asked -
        1. Introduce yourself.
-
        2. Details related to rent and facilities of your current residence.
-
        3. Rules of the hostel.
-
        4. Duties of LG.
-
        5. Information of LGs.
-
        6. General Discussion in context of your pursuing field.
 
-5. <p style="color:green">Visitors are allowed entry in the hostel premises on Sundays and Gazetted holidays between</p>
+- Visitors are allowed entry in the hostel premises on **Sundays and Gazetted holidays between 9:30 am to 5:30 pm**.
 
-<p style="color:green">  9:30 to 5:30 pm.</p>
-
-##Life around Girls hostel
-
-1. **General stores and Medical stores** -  At Tikona Park , Okhla Head , Batla house.
-
-3. **Fruits & vegetables** - At Tikona Park , Okhla Head , Batla house.
-
-4. **Food  joints** - All around Okhla and Zakir Nagar.
-
-5. **Hospitals**-
-
-	* At Juliana: **<font color="green">Holy Family, Fortis Escorts</font>**
-
-	* Within JMI: **<font color="green">M.A Ansari Health Center</font>** 
-	
-	* At Shahin Bagh: **<font color="green">Al- Shifa</font>**
-
-6. **Nearest metro stations** - Govind puri(violet line) - 3.4 km; Kalkaji Mandir (violet line) - 6.9 km.
-
-7. **Nearest Railway stations** - Okhla Railway Station (4.3 km) ; Nizamuddin Railway Station(6.2 km).
-
-8.  **Bus Routes** - 
-
-	* 894 from NDLS
-
-	* 403 from Old Delhi Railway Station
-
-	* 463 from Mehrauli 
-
-	* 507 from Dhaula Kuan 
-
-	* 534 from Anand Vihar ISBT.
-
-9. **Cyber cafe** - At Tikona park, Opposite Chinese Corner.
-
-10. **Documentation** - Juliana ,Okhla Head.
-
-11. **Stationery** - Maktaba Jamia, Okhla Head, Batla house, Tikona Park.
-
-12. **Banks** - 
-
-	* At Jamia-Indian Bank
-
-	* At Batla House-Jamia Cooperative Bank
-
-	* At Zakir Nagar- SBI
-
-	* At Tahmoor Nagar- HDFC
-
-	* At Community Center,New Friends Colony- All major banks.
-
-13. **Nearest ATMs**
-
-	* At Tikona Park-Union Bank
-
-	* At JMI- Indian Bank
-	 
-	* Community Center- All major banks.
-
-
-
-14. **Post office** - Near the Sports complex, JMI.
-
-
-15. **Mobile recharge and accessories points**- Tikona Park , Community Center, Okhla Head.
+### Life around Girls hostel
+1. **General Stores / Medicines / Fruits & Vegetables** at:
+    - Tikona Park
+    - Okhla Head
+    - Batla house
+11. **Stationery**: Maktaba Jamia, Okhla Head, Batla house, Tikona Park.
+4. **Food  Joints** at:
+    - Tikona park (FKC, Aggarwal Sweets, Chinese Corner)
+    - Batla House
+    - Zakir Nagar
+    - Okhla Head
+    - Commnunity Center (McDonalds, Domino's Pizza, PHD, Subway and many others)
+5. **Hospitals** at:
+    - Jamia: M.A Ansari
+    - Shahin Bagh:  Al-Shifa
+    - Juliana: Holy Family, Fortis Escorts
+6. **Nearest Metro Stations**:
+    - Govind Puri (Violet line) - 3.4 km
+    - Kalkaji Mandir (Violet line) - 6.9 km.
+7. **Nearest Railway stations**:
+    - Okhla Railway Station (4.3 km)
+    - Nizamuddin Railway Station (6.2 km)
+8. **Bus Routes**:
+    - 894 from NDLS
+    - 403 from Old Delhi Railway Station
+    - 463 from Mehrauli
+    - 507 from Dhaula Kuan
+    - 534 from Anand Vihar ISBT
+9. **Cyber Cafe**: At Tikona park, Opposite Chinese Corner.
+10. **Documentation**: Juliana, Okhla Head.
+12. **Banks** at:
+    - Jamia: Indian Bank
+    - Batla House: Jamia Cooperative Bank
+    - Zakir Nagar: SBI
+    - Tahmoor Nagar: HDFC
+    - Community Center / New Friends Colony: All major banks.
+13. **Nearest ATMs** at:
+    - Tikona Park: Union Bank
+    - JMI: Indian Bank
+    - Community Center: All major banks.
+14. **Post Office**: Near the Sports complex, JMI.
+15. **Mobile Recharge and Accessories Points**: Tikona Park, Community Center, Okhla Head.
 
