@@ -5,7 +5,7 @@ date:   2015-01-12 22:02:45
 categories: pg
 address: Abul Fazal Enclave, Jamia Nagar,Okhla, New Delhi-110025.
 dist: 1.7
-ratings:
+ratings: 4.3
 ---
 
 
