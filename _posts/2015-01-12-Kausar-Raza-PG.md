@@ -4,6 +4,7 @@ title:  "Kausar Raza PG"
 date:   2015-01-12 22:02:45
 categories: pg
 address: 32-B, Noor Nagar extension, Near Shia Masjid, Okhla Vihar, New Delhi-110025.
+dist: 2.2
 ratings:
 ---
 

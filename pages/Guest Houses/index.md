@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Guest Houses
+title_disp: Guest Houses
 permalink: /guesthouses/
 ---
 1.  **RAJDEEP PALACE**
 
 	* **Address:** 4-B, Bharat Nagar, Market, New Friends Colony, New Delhi-25.
 
-	*  :iphone: 9313921218, 9911398213
+	*  :iphone: +91-9313921218, +91-9911398213
 
-	* :phone:  011-26933871, 011-26933872
+	* :phone: +91-11-26933871,+91-11-26933872
 
 	* **Tarrif:**
 
@@ -43,7 +44,7 @@ permalink: /guesthouses/
 
 	* :iphone: +91-9999217292, +91-9999248916
 
-	* :phone:  011-26929315, 011-26929316
+	* :phone:  +91-11-26929315, +91-11-26929316
 
 	* **Tarrif:** Double Bed Range- Rs.1500-2000-2500/-
 
@@ -53,7 +54,7 @@ permalink: /guesthouses/
 
 	* :iphone: +91-9560377266, +91-918117666
 
-	* :phone:  011-41629501
+	* :phone: +91-11-41629501
 
 	* **Tarrif:**
 
