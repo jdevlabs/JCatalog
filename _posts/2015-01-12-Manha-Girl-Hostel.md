@@ -3,7 +3,7 @@ layout: post
 title:  "Manha Girl Hostel"
 date:   2015-01-12 22:02:45
 categories: pg
-address: Behind Ahad Restaurant, Okhla Village, Okhla, New Delhi, Delhi 110025
+address: Behind Ahad Restaurant, Okhla Village, New Delhi-110025.
 dist: 1.3
 ratings:
 ---
@@ -25,6 +25,4 @@ ratings:
 
 * Separate study table and almirah.
 
-* Extra charges on cooler( self brought)
-
-images
+* Extra charges on cooler(self purchased)

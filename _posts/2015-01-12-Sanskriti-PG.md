@@ -12,7 +12,7 @@ ratings:
 ">
 </a>
 
-:phone:
+:phone:-
 
 
 **Rent:**
@@ -27,7 +27,3 @@ ratings:
 *  **No** Extra charges on cooler/AC
 
 *  Flat system
-
-
-images
-

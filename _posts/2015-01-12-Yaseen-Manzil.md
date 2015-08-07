@@ -39,6 +39,3 @@ ratings:
     *  10:30 pm for working people
 
 * Visitors- Allowed @ Rs. 150/- per day
-
-
-images
