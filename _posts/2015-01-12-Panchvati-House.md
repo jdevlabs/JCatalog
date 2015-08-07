@@ -3,14 +3,14 @@ layout: post
 title:  "Panchvati House"
 date:   2015-01-12 22:02:45
 categories: pg
-address: 84-A,Sarai Julena,,Near Fortis Escorts Hospital,New Friends Colony,Okhla,New Delhi-110025
+address: 84-A,Sarai Julena,Near Fortis Escorts Hospital,New Friends Colony.
 dist:
 ratings:
 ---
 
 
 
-:phone:  9350920868; Mrs. Geeta Kapur
+:iphone:  9350920868; Mrs. Geeta Kapur
 
 
 
@@ -25,5 +25,3 @@ ratings:
 *    Visitors allowed at the reception.
 
 *    One study table per room.
-
-images

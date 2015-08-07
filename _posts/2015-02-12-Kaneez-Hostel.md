@@ -31,5 +31,3 @@ ratings:
 *  Deadline to enter in PG- 10:30 pm
 
 *  Visitors- Allowed @ Rs. 200/- per day
-
-images
