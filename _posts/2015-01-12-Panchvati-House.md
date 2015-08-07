@@ -3,7 +3,7 @@ layout: post
 title:  "Panchvati House"
 date:   2015-01-12 22:02:45
 categories: pg
-address: 84-A, Sarai Julena, Near Fortis Escorts Hospital, New Friends Colony.
+address: 84-A, Sarai Julena, Near Fortis Escorts Hospital, New Friends Colony, New Delhi-110025.
 dist: 1.2
 ratings:
 ---
