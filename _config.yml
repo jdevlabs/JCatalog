@@ -1,0 +1,12 @@
+# Site settings
+title: JCatalog
+description: J Hosteler's Catalog
+email: jmilug@gmail.com
+baseurl: "/JCatalog" # the subpath of your site, e.g. /blog/
+url: "http://jdevlabs.github.io" # the base hostname & protocol for your site
+github_username:  jdevlabs
+
+# Build settings
+markdown: kramdown
+gems:
+  - jemoji
