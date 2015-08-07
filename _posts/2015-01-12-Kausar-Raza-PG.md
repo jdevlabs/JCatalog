@@ -23,7 +23,7 @@ ratings:
 
 *  **Meal** - Tiffin system ,charges vary.
 
-*  2/3 Girls per room
+*  2/3 girls per room
 
 *  NO Extra charges on cooler/AC
 

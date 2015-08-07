@@ -17,9 +17,9 @@ ratings:
 
 **Rent:**
 
-* 2500/- (3 seater)
+* Rs. 2500/- (3 seater)
 
-* 3000/- (2 seater)
+* Rs. 3000/- (2 seater)
 
 
 <hr><br>
@@ -28,6 +28,6 @@ ratings:
 
 *  **No** extra charges on cooler/AC.
 
-*    Deadline to enter in PG- 9:30 pm.
+*    Deadline to enter the PG- 9:30 pm.
 
 *    Visitors not allowed.

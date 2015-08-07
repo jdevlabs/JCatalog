@@ -27,4 +27,4 @@ ratings:
 
 *  **Meal** - Tiffin system , cook to be provided soon
 
-*  Visitor room for parents
+*  Visitor's room for parents

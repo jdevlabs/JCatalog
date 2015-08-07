@@ -14,9 +14,9 @@ ratings:
 
 :phone:
 
-* 9810994786 , 9560740786 ; Mr Mohd. Waseem
+* +91-9810994786 , +91-9560740786 ; Mr Mohd. Waseem
 
-* 9716812181 , 9910171956 ; Mr Mohd. Abid
+* +91-9716812181 , +91-9910171956 ; Mr Mohd. Abid
 
 
 **Rent:**
@@ -32,10 +32,10 @@ ratings:
 
 * Extra charges on cooler/AC
 
-*  Deadline to enter in PG
+*  Deadline to enter the PG:
 
-    * 8:30 pm for students
+    * 8:30 pm for students.
 
-    *  10:30 pm for working people
+    *  10:30 pm for working women.
 
 * Visitors- Allowed @ Rs. 150/- per day
