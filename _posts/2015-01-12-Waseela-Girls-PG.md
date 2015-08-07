@@ -3,7 +3,7 @@ layout: post
 title:  "Waseela Girls PG"
 date:   2015-01-12 22:02:45
 categories: pg
-address: A-28/29,Abul Fazal Enclave,Near Jamia Nagar, Thana Okhla,New Delhi-110025
+address: A-28/29, Abul Fazal Enclave, Near Jamia Nagar, Thana Okhla,New Delhi-110025.
 dist: 1.5
 ratings:
 ---
@@ -13,8 +13,11 @@ ratings:
 
 :phone:  98911811669
 
-**Rent:**  2 Seater- Rs. 3100/- per month
-                                   3 Seater - Rs. 2700/- per month
+**Rent:**  
+
+* 2 Seater- Rs. 3100/- per month
+
+* 3 Seater - Rs. 2700/- per month
 
 
 <hr><br>
