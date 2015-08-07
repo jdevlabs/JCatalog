@@ -15,6 +15,16 @@
 
     {% include footer.html %}
 
+    <script>
+        jQuery(document).ready(function () {
+
+            $('#stars').rating('refresh', {
+                showClear:false,
+                // disabled:true
+            });
+        });
+    </script>
+
   </body>
 
 </html>
