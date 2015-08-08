@@ -4,13 +4,24 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title" >{{ page.title }}  <span class="rating-static rating-35" style="float:right"></span> </h1>
+  	<div style="float:left">
+    	<h3 class="post-title" >{{ page.title }}  <span class="rating-static rating-35" style="float:right"></span> </h3>
+    </div>
 
     <!-- <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
-    <p class="post-meta">{{ page.address }}</p>
+    <div style="float:right">
+    	<br>
+    	<input id="stars" class="rating" value="{{ page.ratings }}" min="0" max="5" step="0.5" data-size="sm" data-symbol="&#xf005;" data-glyphicon="false" data-rating-class="rating-fa">
+    </div>
+	<div style="float:left">
+   		<p class="post-meta">{{ page.address }}</p>
+    </div>
+    	
   </header>
+    
+  
 
-    <input id="stars" class="rating" value="{{ page.ratings }}" min="0" max="5" step="0.5" data-size="sm" data-symbol="&#xf005;" data-glyphicon="false" data-rating-class="rating-fa">
+    
 
   <article class="post-content">
     {{ content }}
