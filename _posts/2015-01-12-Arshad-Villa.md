@@ -5,7 +5,7 @@ date:   2015-01-12 22:02:45
 categories: pg
 address: D/32,Gali No.1, Muradi Road, Batla House, Jamia Nagar,Okhla, New Delhi-110025.
 dist: 1.7
-ratings:
+ratings: 2.9207
 ---
 
 <a href="https://www.google.co.in/maps/dir/Jamia+Millia+Islamia+Cricket+Ground,+Maulana+Mohammad+Ali+Jauhar+Marg,+Jamia+Nagar,+Friends+Colony,+New+Delhi,+Delhi/'28.56575,77.28659'/@28.5637726,77.2834358,17z/data=!4m13!4m12!1m5!1m1!1s0x390ce38cedb6d21f:0xc2dcb1b232f79225!2m2!1d77.279107!2d28.562508!1m3!2m2!1d77.28659!2d28.56575!3e2!5i1">

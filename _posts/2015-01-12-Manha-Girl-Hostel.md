@@ -5,7 +5,7 @@ date:   2015-01-12 22:02:45
 categories: pg
 address: Behind Ahad Restaurant, Okhla Village, New Delhi-110025.
 dist: 1.3
-ratings:
+ratings: 2.6333
 ---
 
 <a href="https://www.google.co.in/maps/place/Manha+Girl+Hostel/@28.562619,77.290531,17z/data=!3m1!4b1!4m2!3m1!1s0x390ce474c1388f19:0x4fce385ecea0557b?hl=en">
