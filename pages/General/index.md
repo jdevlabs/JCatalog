@@ -69,7 +69,7 @@ permalink: /general/
 14. **Post Office**: Near the Sports complex, JMI.
 15. **Mobile Recharge and Accessories Points**: Tikona Park, Community Center, Okhla Head.
 16. **Snapshots of Hostel form**
-17. ![Page1](https://drive.google.com/open?id=0B08CI0RykgKSeWNISl91eU9XQkE)
+17. ![Page1](https://drive.google.com/drive/folders/0B08CI0RykgKSfjVVZGFVMUpKcktEZHZKZW04a0NnZFFzV0o5UkluRmM2RG4tX3U1V0hDRjA)
 18. ![Page2](https://drive.google.com/open?id=0B08CI0RykgKSMVNmQlNtR0VQaTQ)
 19. ![Page3](https://drive.google.com/open?id=0B08CI0RykgKSTV9xNTgxNnl6bTQ)
 20. ![Page4](https://drive.google.com/open?id=0B08CI0RykgKSbU91eGxZbGI3Qjg)
