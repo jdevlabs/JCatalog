@@ -5,7 +5,7 @@ date:   2015-01-12 22:02:45
 categories: pg
 address: 32-B, Noor Nagar extension, Near Shia Masjid, Okhla Vihar, New Delhi-110025.
 dist: 2.2
-ratings:
+ratings: 2.4778
 ---
 
 <a href="https://www.google.com/maps/dir/Jamia+Millia+Islamia+Cricket+Ground,+Maulana+Mohammad+Ali+Jauhar+Marg,+Jamia+Nagar,+Friends+Colony,+New+Delhi,+Delhi,+India/28.556201,77.288264/@28.5585667,77.2796788,16z/data=!4m9!4m8!1m5!1m1!1s0x390ce38cedb6d21f:0xc2dcb1b232f79225!2m2!1d77.279107!2d28.562508!1m0!3e2?hl=en">
@@ -23,7 +23,7 @@ ratings:
 
 *  **Meal** - Tiffin system ,charges vary.
 
-*  2/3 Girls per room
+*  2/3 girls per room
 
 *  NO Extra charges on cooler/AC
 

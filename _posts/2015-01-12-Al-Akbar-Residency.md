@@ -5,7 +5,7 @@ date:   2015-01-12 22:02:45
 categories: pg
 address: F-15/11, Markaz Road, Jogabai Extn., Jamia Nagar, Okhla, New Delhi-110025.
 dist: 1.8
-ratings:
+ratings: 3.3775
 ---
 
 <a href="https://www.google.co.in/maps/place/Al+Akbar+Hotel,+Shop+No.+P-88/@28.569758,77.287349,17z/data=!3m1!4b1!4m2!3m1!1s0x390ce47632d1b203:0xde45325de709eb04?hl=en">
@@ -14,7 +14,7 @@ ratings:
 
 * :phone: 011-26985530; Office
 
-* :iphone: 8130127786; Warden
+* :iphone: +91-8130127786; Warden
 
 
 **Rent:**

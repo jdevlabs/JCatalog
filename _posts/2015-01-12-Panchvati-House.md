@@ -10,11 +10,11 @@ ratings:
 
 
 
-:iphone:  9350920868; Mrs. Geeta Kapur
+:iphone:  +91-9350920868; Mrs. Geeta Kapur
 
 
 
-**Rent:**  6500/- (2 seater)
+**Rent:**  Rs. 6500/- (2 seater)
 
 
 
@@ -22,6 +22,6 @@ ratings:
 
 *  **Meal** - Breakfast and dinner everyday.Lunch on weekend.
 
-*    Visitors allowed at the reception.
+*  Visitors allowed at the reception.
 
-*    One study table per room.
+*  One study table per room.
