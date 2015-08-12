@@ -39,7 +39,8 @@ permalink: /general/
     - Batla House
     - Zakir Nagar
     - Okhla Head
-    - Commnunity Center (McDonalds, Domino's Pizza, PHD, Subway and many others)
+    - [Commnunity Center(McDonalds, Domino's Pizza, PHD, Subway and many others)](https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=community+center+new+friends+colony&rflfq=1&tbm=lcl)
+     
 4. **Hospitals** at:
     - Jamia: [M.A Ansari Health Center](https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=jamia+MA+ansari+health+center&rflfq=1&tbm=lcl&rlha=0)
     - Shahin Bagh:  [Al-Shifa](https://www.google.co.in/maps/place/Alshifa+Hospital/@28.5567398,77.2931985,15z/data=!4m2!3m1!1s0x0:0x476181486667e974)
