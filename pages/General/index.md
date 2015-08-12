@@ -4,14 +4,10 @@ title: General Details
 title_disp: General Details of Jamia Girls hostel
 permalink: /general/
 ---
-<<<<<<< HEAD
+
 - Forms available: **July end - Mid August**
 - Forms available at:[Jamia Girls Hostel Application Form 2015](http://jmi.ac.in/studyatjamia/hostel/latest/2/detail/129)
 - NCR people are **NOT** eligible for hostel accommodation.
-=======
-- Forms available: **End July - Mid August**
-- NCR people are **NOT** eligible for the hostel.
->>>>>>> gh-pages
 - Documents required:
     * 2 affidavits from Local Guardians (LGs).
     * 1 affidavit from parents regarding financial guarantee.
@@ -28,7 +24,6 @@ permalink: /general/
        4. Duties of the LG.
        5. Information of LGs.
        6. General Discussion in context of your pursuing field.
-
 - Visitors are allowed entry in the hostel premises on **Sundays and on Gazetted holidays between 9:30 am to 5:30 pm**.
 
 ## Life around Girls hostel
@@ -71,18 +66,13 @@ permalink: /general/
     - Tikona Park: Union Bank
     - JMI: Indian Bank
     - Community Center: All major banks.
-<<<<<<< HEAD
-14. **Post Office**: Near the Sports complex, JMI.
-15. **Mobile Recharge and Accessories Points**: Tikona Park, Community Center, Okhla Head.
-16. **Snapshots of Hostel form**    
-<a href="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_105905188.jpg"><img src="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_105905188.jpg" align="left" height="100" width="100" padding="10" ></a>
-<a href="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_105941140.jpg"><img src="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_105941140.jpg" align="left" height="100" width="100" padding="10" ></a>
-<a href="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_105955618.jpg"><img src="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_105955618.jpg" align="left" height="100" width="100" padding="10"></a>
-<a href="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_110017242.jpg"><img src="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_110017242.jpg" align="left" height="100" width="100" padding="10"></a>
-<a href="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_110047854.jpg"><img src="https://github.com/jdevlabs/JCatalog/blob/master/Hostel_Form/IMG_20150809_110047854.jpg" align="left" height="100" width="100" padding="10"></a>
-
-=======
 12. **Post Office**: Near the Sports complex, JMI.
 13. **Mobile Recharge and Accessories Points**: Tikona Park, Community Center, Okhla Head.
->>>>>>> gh-pages
+16. **Snapshots of Hostel form**
 
+
+![SS1]({{ site.url }}{{ site.baseurl }}/Hostel_Form/IMG_20150809_105905188.jpg)
+![SS2]({{ site.url }}{{ site.baseurl }}/Hostel_Form/IMG_20150809_105941140.jpg)
+![SS3]({{ site.url }}{{ site.baseurl }}/Hostel_Form/IMG_20150809_105955618.jpg)
+![SS4]({{ site.url }}{{ site.baseurl }}/Hostel_Form/IMG_20150809_110017242.jpg)
+![SS5]({{ site.url }}{{ site.baseurl }}/Hostel_Form/IMG_20150809_110047854.jpg)
