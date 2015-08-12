@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Yaseen Girls Hostel"
-date:   2015-01-12 22:02:45
+date:   2015-01-12
 categories: pg
-address: 27/1/28,Jamia Nagar, Abul Fazal Enclave Part 1,Near Alam Tent House, New Delhi, Delhi 110025
+address: 27/1/28, Jamia Nagar, Abul Fazal Enclave Part 1, Near Alam Tent House, New Delhi, Delhi 110025
 dist: 1.7
-ratings:
+ratings: 3.4
 ---
 
 <a href="https://www.google.co.in/maps/place/Manha+Girl+Hostel/@28.562619,77.290531,17z/data=!3m1!4b1!4m2!3m1!1s0x390ce474c1388f19:0x4fce385ecea0557b?hl=en">

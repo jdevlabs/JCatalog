@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Arshad Villa"
-date:   2015-01-12 22:02:45
+date:   2015-01-12
 categories: pg
-address: D/32,Gali No.1, Muradi Road, Batla House, Jamia Nagar,Okhla, New Delhi-110025.
+address: D/32, Gali No.1, Muradi Road, Batla House, Jamia Nagar,Okhla, New Delhi-110025.
 dist: 1.7
 ratings:
 ---

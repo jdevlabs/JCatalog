@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Siddiqui Hostel"
-date:   2015-01-12 22:02:45
+date:   2015-01-12
 categories: pg
-address: Near B-104, Btala House, Zakir Nagar,New Delhi-110025.
+address: Near B-104, Btala House, Zakir Nagar, New Delhi-110025.
 dist: 1.4
 ratings:
 ---
