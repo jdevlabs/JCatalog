@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Samina Hostel"
-date:   2015-01-12 22:02:45
+date:   2015-01-12
 categories: pg
 address: Near Jaswant Appartments, Tikona Park, Jamia Nagar, New Delhi-110025.
 dist: 1.3
