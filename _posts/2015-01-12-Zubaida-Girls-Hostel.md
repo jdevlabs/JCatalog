@@ -5,7 +5,7 @@ date:   2015-01-12
 categories: pg
 address: Abul Fazal Enclave, Jamia Nagar, Okhla, New Delhi-110025.
 dist: 1.7
-ratings:
+ratings:3.405
 ---
 
 <a href="https://www.google.co.in/maps/place/Zubaida+Girls+Hostel/@28.560957,77.292551,17z/data=!3m1!4b1!4m2!3m1!1s0x390ce389f44c334d:0xb847c9f873faa550?hl=en">
