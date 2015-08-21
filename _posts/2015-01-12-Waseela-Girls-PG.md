@@ -5,7 +5,7 @@ date:   2015-01-12 22:02:45
 categories: pg
 address: A-28/29, Abul Fazal Enclave, Near Jamia Nagar, Thana Okhla,New Delhi-110025.
 dist: 1.5
-ratings:
+ratings: 2.9372
 ---
 
 <a href="https://www.google.com/maps/place/28%C2%B033%2741.3%22N+77%C2%B017%2734.5%22E/@28.5615177,77.2929486,20z/data=!4m2!3m1!1s0x0:0x0?hl=en">
