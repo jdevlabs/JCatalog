@@ -5,7 +5,7 @@ date:   2015-01-12
 categories: pg
 address: Near Jaswant Appartments, Tikona Park, Jamia Nagar, New Delhi-110025.
 dist: 1.3
-ratings:
+ratings: 3.133
 ---
 
 <a href="https://www.google.co.in/maps/place/Samina+Girls+Hostel/@28.563311, 77.289945,17z/data=!3m1!4b1!4m2!3m1!1s0x390ce474c1388f19:0x4fce385ecea0557b?hl=en">
